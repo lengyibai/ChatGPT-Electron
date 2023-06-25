@@ -19,6 +19,13 @@
     "build:mac": "npm run build && electron-builder --mac --config",
     "build:linux": "npm run build && electron-builder --linux --config"
   },
+  "build": {
+    "productName": "QCCQ新版UI",
+    "appId": "com.lyb.ddm",
+    "win": {
+      "icon": "build/icon.ico"
+    }
+  },
   "dependencies": {
     "@electron-toolkit/preload": "^1.0.2",
     "@electron-toolkit/utils": "^1.0.2"
