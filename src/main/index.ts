@@ -1,4 +1,4 @@
-import { app, shell, BrowserWindow, globalShortcut } from 'electron'
+import { app, shell, BrowserWindow } from 'electron'
 import * as path from 'path'
 import { electronApp, optimizer, is } from '@electron-toolkit/utils'
 
@@ -37,10 +37,6 @@ function createWindow(): void {
   } else {
     mainWindow.loadFile(path.join(__dirname, '../renderer/index.html'))
   }
-
-  globalShortcut.register('F12', () => {
-    mainWindow.webContents.openDevTools()
-  })
 }
 
 //这个方法将在Electron完成时被调用
