@@ -1,0 +1,65 @@
+[
+  {
+    "label": "中国大陆-云希",
+    "name": "云希",
+    "value": "zh-CN-YunxiNeural",
+    "gender": 0,
+    "voice": "https://qccq.cc/9b657ad2-c8ae-11ed-89a4-52540064da8e.mp3"
+  },
+  {
+    "label": "中国大陆-小晓",
+    "name": "小晓",
+    "value": "zh-CN-XiaoxiaoNeural",
+    "gender": 1,
+    "voice": "https://qccq.cc/2e2b876c-c8af-11ed-a1dd-52540064da8e.mp3"
+  },
+  {
+    "label": "中国大陆-云夏",
+    "name": "云夏",
+    "value": "zh-CN-YunxiaNeural",
+    "gender": 0,
+    "voice": "https://qccq.cc/6f81398c-c8af-11ed-94ad-52540064da8e.mp3"
+  },
+  {
+    "label": "中国大陆-小艺",
+    "name": "小艺",
+    "value": "zh-CN-XiaoyiNeural",
+    "gender": 1,
+    "voice": "https://qccq.cc/b4ec2ca2-c8af-11ed-80f4-52540064da8e.mp3"
+  },
+  {
+    "label": "中国大陆-云阳",
+    "name": "云阳",
+    "value": "zh-CN-YunyangNeural",
+    "gender": 0,
+    "voice": "https://qccq.cc/e62e0790-c8af-11ed-a0bc-52540064da8e.mp3"
+  },
+  {
+    "label": "中国香港-万灵",
+    "name": "万灵",
+    "value": "zh-HK-WanLungNeural",
+    "gender": 0,
+    "voice": "https://qccq.cc/0702f44e-c8b0-11ed-8dbb-52540064da8e.mp3"
+  },
+  {
+    "label": "中国香港-小慕",
+    "name": "小慕",
+    "value": "zh-HK-HiuMaanNeural",
+    "gender": 1,
+    "voice": "https://qccq.cc/22a91ed0-c8b0-11ed-80c0-52540064da8e.mp3"
+  },
+  {
+    "label": "中国台湾-小昀",
+    "name": "小昀",
+    "value": "zh-TW-YunJheNeural",
+    "gender": 0,
+    "voice": "https://qccq.cc/51b391ec-c8b0-11ed-adcb-52540064da8e.mp3"
+  },
+  {
+    "label": "中国台湾-小辰",
+    "name": "小辰",
+    "value": "zh-TW-HsiaoChenNeural",
+    "gender": 1,
+    "voice": "https://qccq.cc/806ce560-c8b0-11ed-9abc-52540064da8e.mp3"
+  }
+]

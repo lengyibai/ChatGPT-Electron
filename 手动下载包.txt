@@ -1,0 +1,6 @@
+如果在打包的时候，出现download某个包失败，则直接打开那个包的链接手动下载并按以下方式操作
+将 electron-v36.2.0-win32-x64.zip 移动到到 C:\Users\xxx\AppData\Local\electron\Cache
+将 nsis-3.0.4.1.7z 解压缩 C:\Users\xxx\AppData\Local\electron-builder\Cache\nsis\nsis-3.0.4.1
+将 nsis-resources-3.4.1.7z 解压缩 C:\Users\xxx\AppData\Local\electron-builder\Cache\nsis\nsis-resources-3.4.1
+将 nsis-resources-3.4.1.7z 解压到 C:\Users\xxx\AppData\Local\electron-builder\Cache\nsis-resources\nsis-resources-3.4.1
+将 winCodeSign-2.6.0.7z 解压到 C:\Users\xxx\AppData\Local\electron-builder\Cache\winCodeSign\winCodeSign-2.6.0
